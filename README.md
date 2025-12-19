@@ -45,3 +45,5 @@ Bar charts summarizing current weather metrics.
 #OUTPUT
 
 <img width="1909" height="1013" alt="Image" src="https://github.com/user-attachments/assets/7e7881c3-4d06-45ee-b9bf-0848e688b236" />
+
+<img width="1258" height="468" alt="Image" src="https://github.com/user-attachments/assets/acd726b0-195f-4153-b60b-267e6d48f62d" />
